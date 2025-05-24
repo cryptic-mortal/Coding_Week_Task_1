@@ -1,0 +1,19 @@
+# Python version: 3.12.7
+
+# Core Data Libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Data Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Machine Learning & Modeling
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Model Interpretability (SHAP)
+shap==0.44.1
+
+# Notebook 
+notebook==7.3.2
